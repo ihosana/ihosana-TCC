@@ -1,0 +1,58 @@
+/*#plano{
+    background-image: url("/jpg/png-5.jpg");
+   background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 0px;
+    height: 300px;
+    opacity: 1.0;
+}*/
+
+#letra{
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left:94px ;
+    text-align: center;
+}
+#link{
+    margin-top: 20px;
+    margin-left: 360px;
+   
+}
+
+#forma{
+    margin-right: 200px;
+}
+h5{
+    color: black;
+}
+.modal {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    font-size: 17px;
+    width: 100%;
+    height: 100%; 
+    background-image: url("/jpg/capa.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+ .janela {
+    text-align: center;
+    display: none;
+    margin: 7% auto;
+    padding: 15px;
+    width: 60%;
+    border-radius: 5px;  
+}
+
+.fechar {
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fechar:hover {
+    color: black;
+    cursor: pointer;
+}

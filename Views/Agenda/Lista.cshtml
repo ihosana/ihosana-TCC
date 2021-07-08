@@ -1,0 +1,54 @@
+@model IEnumerable<Agendamento>
+@{
+    ViewData["Title"] = "Listagem de Usuário";
+}
+
+<!doctype html>
+<html lang="pt-br">
+
+<meta charset="utf-8">
+
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] consulta</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/privacy.css" />
+</head>
+
+<body id="back">
+    <h2 id="usuario">Listagem de Usuários</h2>
+    <br>
+
+
+    <table id="lista" border="1">
+        <thead>
+            <tr><b>
+                    <th class="cor">Id</th>
+                    <th >Nome</th>
+                    <th >Data</th>
+                    <th >Turno</th>
+                </b>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Agendamento a in Model)
+            {
+                <tr>
+                    <b>
+                        <td class="title">@a.Idconsulta</td>
+                        <td class="title">@a.NomeCompleto</td>
+                        <td class="title">@a.Marcar</td>
+                        <td class="title">@a.Turno</td>
+
+                    </b>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+
+</body>
+
+</html>

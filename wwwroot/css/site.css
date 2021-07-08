@@ -1,0 +1,244 @@
+﻿*{
+  margin-top: 0px;
+} 
+.menu{
+  margin: 0px;
+  background-color: rgb(0, 128, 105);
+  width:auto;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+#galeria{
+   height: 200px;
+}
+#azul{
+   color: aquamarine;
+}
+
+.nav{
+   color: white;
+   text-decoration: none;
+   font-family:Arial, Helvetica;
+}
+.menu :hover{
+     text-decoration: black;
+}
+#opacidade{
+  
+   font-family:Arial, Helvetica;
+}
+#estilo{
+   text-align: center;
+   background-color: white;
+   height: 90px;
+}
+#azul{
+   color: rgb(0, 238, 255);
+}
+.menu ul{
+     margin-top: 0px;
+     color: white;
+}
+.menu ul li{ 
+     text-align: center;
+     display: inline-block;
+     margin-top: 0px;
+     padding: 10px 45px 20px;
+    
+     margin: 0px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+ .menu :hover{
+     color: rgb(0, 238, 255);
+     cursor: pointer; 
+}
+#img{
+     padding: 0px 30px;
+}
+.topo ul li{
+   text-align: center;
+   display: inline;
+   padding: 8px 100px;
+}
+#galeria{
+    height: 100px;
+}
+.topo{
+   display: inline;
+}
+.carouselslide{
+   height: 200px;
+}
+.topo ul{
+   display: inline-block; 
+     margin-top: 0px;
+     margin-left: 490px;
+}
+
+#cima{
+  padding: 0px 30px;
+  
+}
+.encima ul li{ 
+   text-align: center;
+   display: inline;
+   margin-top: 2000px;
+   padding: 200px 100px;
+   margin: 0px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 19px;
+}
+#topo{
+ margin-left: 600px;
+}
+.part{
+ 
+   background-color:rgb(0, 128, 105);
+    height: 30px;
+   width: 40px;
+   border-radius: 30px;
+   cursor: pointer;
+   display: inline;
+ }
+ .part :hover{
+  cursor: pointer;
+ background-color: rgb(0, 238, 255);
+ border-radius: 30px;
+ 
+ }
+.gallery .carousel {
+   position: relative;
+   height: 450px;
+   overflow: hidden;
+   text-align: center;
+   margin-left:auto;
+   margin-right: auto;
+   margin: 0px;
+ width: 100%;
+   color: black;
+ }
+
+.box input{
+   color: white;
+   background-color:rgba(255, 255, 255, 0.01);
+   margin-left: 200px;
+  
+}
+input[type=submit]{
+  cursor: pointer;
+  background-color:rgb(0, 128, 105);
+  color: white;
+  margin-left: 200px;
+}
+input[type=submit]:hover{
+background-color: rgb(0, 238, 255);
+
+}
+#rodape{
+  margin-top: 100px;
+  padding: 10px 10px 3px;
+  background-color: gray;
+  margin-bottom: 0px;
+  color: black;
+}
+#black{
+   margin: 20px;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  font-style: inherit;
+}
+
+.contato{
+   display: inline;
+   padding: 0px 100px;
+   margin-bottom: 0px;
+}
+.contato :hover{
+ cursor: pointer;
+}
+.conta{
+   margin-left: 40px;
+
+}
+.titulo{
+   margin: 0px;
+   margin-left: 160px; 
+}
+#sub{
+   font-size: 60px;
+}
+hr{
+   background-color: rgb(34, 30, 30);
+}
+.palavra{
+   margin-top:50px;
+   margin-left: 100px;
+   margin-right: 100px; 
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#img{
+   margin: 0px;
+   margin-left: 150px;
+  
+}
+.conteiner{
+   display: flex;
+}
+#verticle-line{
+
+   width: 1px;
+   height: 500px;
+   background-color: black;
+}
+h5{
+   color: black;
+}
+#subtitle{
+   color: black
+}
+.text{
+   margin-left: 50px;
+}
+.texto{
+   margin-left: 50px;
+   margin-right: 10px;
+   margin-top: 50px;
+}
+.imagem{
+   display: inline;
+   padding: 0px 170px;
+   margin-top: 20px;
+}
+.nome{
+   display: inline;
+   padding: 0px 120px;
+   margin-top: 20px;
+}
+#conte{
+   margin-left: 50px;
+}
+#chat{
+   
+   margin-left: 230px;
+  
+}
+#lista{
+   margin-left: 450px;
+   width: 500px;
+   height: 400px;
+}
+#usuario{
+   margin-left: 550px;
+}
+#back{
+   background-image: url("/jpg/png-32.jpg");
+   background-repeat: no-repeat;
+  
+   width: 100%;
+   height: 300px;
+   display: inline;
+}

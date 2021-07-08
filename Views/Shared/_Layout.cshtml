@@ -1,0 +1,81 @@
+﻿@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>@ViewData["Title"] - tcc_ihosana</title>
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/gallery.min.css" />
+  <link rel="stylesheet" href="css/gallery.theme.css" />
+  <link rel="stylesheet" href="css/site.css" />
+  <link rel="stylesheet" href="~/css/login.css" />
+
+  <link rel="stylesheet" href="~/css/privacy.css" />
+
+
+</head>
+
+<body>
+
+  <div id="estilo">
+    <h2 id="title">Nova Vida</h2>
+    <p id="azul">Atendimento virtual </p>
+
+  </div>
+
+  <header>
+    <nav>
+      <div class="menu">
+        <ul class="top">
+
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Agenda" asp-action="Consulta">Fazer
+              consulta</a>
+          </li>
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+          </li>
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Agenda" asp-action="Lista">Posições</a>
+          </li>
+
+          <li class="link">
+            <a asp-controller="Usuario"asp-action="Login"> <img src="/jpg/icon.png" width="30px" height="30px">
+             </a>
+             
+            
+          </li>
+      
+        </ul>
+      </div>
+    </nav>
+  </header>
+    @if (Context.Session.GetInt32("idusuario") != null)
+                    {
+                        <span id="span">Olá @Context.Session.GetString("loginUsuario")<a asp-action="Logout">Sair</a></span>
+                    }
+  <main role="main" class="pb-3">
+    @RenderBody()
+  </main>
+
+  <script src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="~/js/site.js" asp-append-version="true"></script>
+  @RenderSection("Scripts", required: false)
+</body>
+
+</html>
