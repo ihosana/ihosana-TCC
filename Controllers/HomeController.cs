@@ -21,6 +21,11 @@ namespace tcc_ihosana.Controllers
         public IActionResult Index()
         {
             return View();
+        }  
+          
+         public IActionResult Login2()
+        {
+            return View();
         }        
          
         public IActionResult Logout()

@@ -23,7 +23,7 @@
             <p>
             <input type="password" asp-for="Senha" placeholder="Senha" />
           </p>
-          <p ><input  type="submit" value="Logar"></p>
+          <p ><input asp-area="" asp-controller="Usuario" asp-action="Partusuario"  type="submit" value="Logar"></p>
               <p id="link"> <a asp-area="" asp-controller="Usuario" asp-action="Cadastro">Cadastre-se</a></p>
         </form>
       </div>

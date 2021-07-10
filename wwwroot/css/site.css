@@ -1,6 +1,7 @@
 ﻿*{
   margin-top: 0px;
 } 
+
 .menu{
   margin: 0px;
   background-color: rgb(0, 128, 105);
@@ -9,7 +10,7 @@
   margin-right: 300px;
 }
 #galeria{
-   height: 200px;
+   height: 1000px;
 }
 #azul{
    color: aquamarine;
@@ -69,7 +70,7 @@
    display: inline;
 }
 .carouselslide{
-   height: 200px;
+   height: 100px;
 }
 .topo ul{
    display: inline-block; 
@@ -107,11 +108,27 @@
   cursor: pointer;
  background-color: rgb(0, 238, 255);
  border-radius: 30px;
- 
+ }
+ #imagem{
+    background-image: url("../jpg//tcc.jpg");
+    background-position: 0px;
+    width: 1348px;
+    height: 630px;
+    margin-top: auto;
+ }
+ #button-slide{
+    width: 100px;
+ }
+ #titulo{
+    background-color: black;
+    flex-direction: row;
+    margin: 0px;
+    height: 600px;
+    color: white;
  }
 .gallery .carousel {
    position: relative;
-   height: 450px;
+   height: 600px;
    overflow: hidden;
    text-align: center;
    margin-left:auto;

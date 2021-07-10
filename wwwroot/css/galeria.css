@@ -10,11 +10,11 @@
 .gallery {
   position: relative;
  
-  height: 500px;
+  height: 1000px;
   }
 
   .gallery .item {
-   height: 10px;
+   height: 1000px;
     margin-top: 0px;
     overflow: hidden;
     text-align: center;

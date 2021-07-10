@@ -31,6 +31,9 @@ namespace tcc_ihosana.Controllers
                 return View();
             }
         }
+          public IActionResult Partusuario(){
+           return View();
+       }
 
        public IActionResult Login(){
            return View();
@@ -46,7 +49,7 @@ namespace tcc_ihosana.Controllers
                 ViewBag.Mensagem = "Logado";
                 HttpContext.Session.SetInt32("idusuario", u.Id);
                 HttpContext.Session.SetString("loginUsuario", u.Login);
-                   return View();
+                   return View("Partusuario");
             }
             else
             {
