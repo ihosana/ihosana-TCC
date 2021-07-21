@@ -9,6 +9,9 @@ namespace tcc_ihosana.Models
         public string Login {get; set;}
 
         public string Senha {get; set;}
+        
+        public int TipoUS {get; set;}
+
 
     }
 }

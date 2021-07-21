@@ -48,9 +48,18 @@
             <input type="text" asp-for="Tipo" placeholder="Tipo de consulta" />
           </p> 
            
-            <p>
+          <!--  <p>
             <input type="text" asp-for="Turno" placeholder="turno" />
-          </p>
+          </p>-->
+          <p>
+                  <select name="tipo">
+              <option type="text" asp-for="Turno"> Manhã</option>
+               <option type="text" asp-for="Turno"> Tarde</option>
+               
+               <option type="text" asp-for="Turno"> Noite</option>
+
+              </select>
+              </p>
             <p>
             <input type="number" asp-for="Idade" placeholder="Idade" />
           </p>

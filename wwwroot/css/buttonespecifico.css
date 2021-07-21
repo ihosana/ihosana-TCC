@@ -1,6 +1,7 @@
 *{
     margin-top: 0px;
 }
+
 input[type=submit]{
     cursor: pointer;
     border-color:rgb(9, 189, 209);;
@@ -9,10 +10,12 @@ input[type=submit]{
     width: 180px;
     background-color: transparent;
     height: 50px;
+   text-decoration: none;
     margin-top: 400px;
   }
   input[type=submit]:hover{
   background-color: rgb(0, 238, 255);
+  text-decoration: none;
   
   }
  

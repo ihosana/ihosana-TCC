@@ -14422,6 +14422,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\Views\\Usuario\\Login1.cshtml",
+      "TargetPath": "Views\\Usuario\\Login1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\Views\\Agenda\\Lista.cshtml",
       "TargetPath": "Views\\Agenda\\Lista.cshtml",
       "FileKind": "mvc"
@@ -14434,11 +14439,6 @@
     {
       "FilePath": "c:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\Views\\Usuario\\Welcome.cshtml",
       "TargetPath": "Views\\Usuario\\Welcome.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\Views\\Home\\Login2.cshtml",
-      "TargetPath": "Views\\Home\\Login2.cshtml",
       "FileKind": "mvc"
     },
     {

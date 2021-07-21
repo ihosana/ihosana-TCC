@@ -18,15 +18,15 @@ namespace tcc_ihosana.Controllers
             Agendarbanco ab = new Agendarbanco();
             if ((HttpContext.Session.GetInt32("idusuario") == null))
             {
-                ViewBag.Mensagem = "Erro no agendamento, faça o login ou insira todos os dados";
+                  ViewBag.Mensagem = "Preecha os campos solicitados";
                 return View();
             }
             else
             {
-                ab.Insert(a, (int)HttpContext.Session.GetInt32("idusuario"));
-
-                ViewBag.Mensagem = "Agendamento feito";
-                return View();
+               
+             
+                       ViewBag.Mensagem = "Agendamento feito";
+                  return View("../Usuario/Partusuario");
             }
         }
 

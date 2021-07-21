@@ -1,6 +1,8 @@
-﻿@{
-  ViewData["Title"] = "Home Page";
+@model Usuario
+@{
+  ViewData["Title"] = "Consulta";
 }
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,15 +22,15 @@
   <link rel="stylesheet" href="css/gallery.min.css" />
   <link rel="stylesheet" href="css/gallery.theme.css" />
   <link rel="stylesheet" href="~/css/login.css" />
+  <link rel="stylesheet" href="~/css/privacy.css" />
+  <link rel="stylesheet" href="~/css/site.css" />
   <link rel="stylesheet" href="~/css/buttonespecifico.css" />
   <link rel="stylesheet" href="~/css/privacy.css" />
 
 
 </head>
-    <header>
-
-      
-  </header>
+<header>
+</header>
 <!--
   <main class="gallery" id="galeria">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -72,32 +74,36 @@
         </div>
     </main>
     -->
-  
+
 <main>
   <div id="imagem">
-  <p>
- 
-         <li class="link">
-             <a href="#" id="btnAbreModal"> <p id="butespe"><input asp-area="" asp-controller="Home" asp-action="Login2"  type="submit" value="Entrar"></p> </a>
-  <div id="modal" class="modal">
-              <div id="caixa" class="janela">
-                <span class="fechar"></span>
-                <div id="forma">
-                  <p id="letra">Login
-                  <form method="POST" >
-                    <p>
-                      <input type="text" placeholder="Login" />
-                    </p>
-                    <p>
-                      <input type="password" placeholder="Senha" />
-                    </p>
-                    <p><input type="submit" value="Entrar"></p>
-                  </form>
-                  <p id="link">
-                    <a href="#">Cadastre-se</a>
-                  </p>
-                  </p>
-                  <!--
+    <p>
+
+      <li class="link">
+        <a href="#" id="btnAbreModal">
+          <p id="butespe"><input asp-area="" asp-controller="Home" asp-action="Login" type="submit" value="Entrar"></p>
+        </a>
+        <div id="modal" class="modal">
+          <div id="caixa" class="janela">
+            <span class="fechar"></span>
+            <div id="forma">
+              <p id="letra">Login</p>
+
+              <p id="mensagem">@ViewBag.Mensagem </p>
+              <form method="POST">
+                <p>
+                  <input type="text" asp-for="Login" placeholder="Login" />
+                </p>
+                <p>
+                  <input type="password" asp-for="Senha" placeholder="Senha" />
+                </p>
+                <p><input asp-area="" asp-controller="Usuario" asp-action="Partusuario" type="submit" value="Logar"></p>
+                <p id="link"> <a asp-area="" asp-controller="Usuario" asp-action="Cadastro">Cadastre-se</a></p>
+              </form>
+            </div>
+
+    </p>
+    <!--
                         <form method="POST">
                           <p>
                             <input type="text" placeholder="Login" />
@@ -110,57 +116,62 @@
                        </p>
                     </div>
                   -->
-                </div>
-              </div>
-              <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-          </li>
-
-
-        
-   </p>
-< </p>
   </div>
- 
-<br>
-<br>
-<br>
-<br>
-<div class="conteiner">
-  <div id="img"><img src="jpg/logotipo.jpg" width="400px" height="400px"> </div>
-  <div style="height:300px; border-left:4px black solid;left:500px;right:100px"></div>
-  <p class="palavra">
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-    to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
-    typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets
-    containing Lorem Ipsum
-    passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  </li>
   </p>
-</div>
-<br>
-<hr>
-<div>
-  <p class="imagem"> <img src="jpg/fila.png" width="100px" height="90px"></p>
-  <p class="imagem"> <img src="jpg/mais.png" width="100px" height="90px"></p>
-  <p class="imagem"> <img src="jpg/coro.png" width="100px" height="90px"></p>
-</div>
-<div class="conteiner">
-  <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-    to make a type specimen book.
-    containing Lorem Ipsum
-  <div style="height:150px; border-left:1px black solid;margin-left:80px;right:0px; margin-top:50px"></div>
-  </p>
-  <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-    to make a type specimen book.
-  <div style="height:150px; border-left:1px black solid;margin-left:80px;right:0px;margin-top:50px"></div>
-  </p>
-  <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-    to make a type specimen book.</p>
+  < </p>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="conteiner">
+      <div id="img"><img src="jpg/logotipo.jpg" width="400px" height="400px"> </div>
+      <div style="height:300px; border-left:4px black solid;left:500px;right:100px"></div>
+      <p class="palavra">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+        it
+        to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
+        typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
+        sheets
+        containing Lorem Ipsum
+        passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem
+        Ipsum
+      </p>
+    </div>
+    <br>
+    <hr>
+    <div>
+      <p class="imagem"> <img src="jpg/fila.png" width="100px" height="90px"></p>
+      <p class="imagem"> <img src="jpg/mais.png" width="100px" height="90px"></p>
+      <p class="imagem"> <img src="jpg/coro.png" width="100px" height="90px"></p>
+    </div>
+    <div class="conteiner">
+      <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+        the
+        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+        it
+        to make a type specimen book.
+        containing Lorem Ipsum
+      <div style="height:150px; border-left:1px black solid;margin-left:80px;right:0px; margin-top:50px"></div>
+      </p>
+      <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+        the
+        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+        it
+        to make a type specimen book.
+      <div style="height:150px; border-left:1px black solid;margin-left:80px;right:0px;margin-top:50px"></div>
+      </p>
+      <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+        the
+        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+        it
+        to make a type specimen book.</p>
 
-</div>
+    </div>
 </main>
 <br>
 <br>
@@ -196,24 +207,22 @@
   <div class="conteiner">
     <p class="conta">
       <img src="jpg/grupo.png" width="60px" height="60px"> Trabalhe conosco
- 
+
   <p class="conta">
     <img src="jpg/tel.png" width="60px" height="65px"> Tel:(66)88882-3743
   </p>
  </div>
 </footer>
 -->
- 
-  <script>
-    $("#btnAbreModal").on('click', function () {
-      $("#modal").fadeIn();
-      $("#caixa").slideDown();
-    });
 
-    $(".fechar").on('click', function () {
-      $("#caixa").slideUp();
-      $("#modal").fadeOut();
-    });
-  </script>
-  
+<script>
+  $("#btnAbreModal").on('click', function () {
+    $("#modal").fadeIn();
+    $("#caixa").slideDown();
+  });
 
+  $(".fechar").on('click', function () {
+    $("#caixa").slideUp();
+    $("#modal").fadeOut();
+  });
+</script>

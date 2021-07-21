@@ -11,12 +11,13 @@ namespace tcc_ihosana.Models
         {
             MySqlConnection conexao = new MySqlConnection(dadosconexao);
             conexao.Open();
-            string Sql = "INSERT INTO login (Nome, Login ,Senha ) values (@Nome, @Login ,@Senha )";
+            string Sql = "INSERT INTO login (Nome, Login ,Senha, TipoUS ) values (@Nome, @Login ,@Senha, @TipoUS )";
 
             MySqlCommand comando = new MySqlCommand(Sql, conexao);
             comando.Parameters.AddWithValue("@Nome", novo.Nome);
             comando.Parameters.AddWithValue("@Login", novo.Login);
             comando.Parameters.AddWithValue("@Senha", novo.Senha);
+            comando.Parameters.AddWithValue("@TipoUS", novo.TipoUS);
             comando.ExecuteNonQuery();
 
             conexao.Close();
@@ -26,10 +27,11 @@ namespace tcc_ihosana.Models
         {
             MySqlConnection conexao = new MySqlConnection(dadosconexao);
             conexao.Open();
-            string sql = "SELECT * FROM login WHERE Login = @Login AND Senha = @Senha";
+            string sql = "SELECT * FROM login WHERE Login = @Login AND @TipoUS =@TipoUS";
             MySqlCommand comandoQuery = new MySqlCommand(sql, conexao);
             comandoQuery.Parameters.AddWithValue("@Login", u.Login);
             comandoQuery.Parameters.AddWithValue("@Senha", u.Senha);
+            comandoQuery.Parameters.AddWithValue("@TipoUS", u.TipoUS);
             MySqlDataReader reader = comandoQuery.ExecuteReader();
             Usuario usr = null;
             if (reader.Read())
@@ -44,6 +46,8 @@ namespace tcc_ihosana.Models
 
                 if (!reader.IsDBNull(reader.GetOrdinal("Senha")))
                     usr.Senha = reader.GetString("Senha");
+                      if (!reader.IsDBNull(reader.GetOrdinal("TipoUS")))
+                    usr.TipoUS = reader.GetInt32("TipoUS");
             }
 
             conexao.Close();

@@ -32,15 +32,17 @@ namespace tcc_ihosana.Controllers
             }
         }
           public IActionResult Partusuario(){
+           return View("./Agenda/Consulta");
+       }
+         public IActionResult Login(){
            return View();
        }
-
-       public IActionResult Login(){
+       public IActionResult Login1(){
            return View();
        }
         
           [HttpPost]
-        public IActionResult Login(Usuario u)
+        public IActionResult Login1(Usuario u)
         {
             UsuarioBanco ub = new UsuarioBanco();
             Usuario pessoa = ub.QueryLogin(u);
@@ -56,15 +58,13 @@ namespace tcc_ihosana.Controllers
                 ViewBag.Mensagem = "erro no login";
                 return View();
             }
-
         }
         
-        public IActionResult Logout()
+         public IActionResult Logout()
         {
             HttpContext.Session.Clear();
-            return View("Login");
+            return View("");
         }
-   
         
     }
 }

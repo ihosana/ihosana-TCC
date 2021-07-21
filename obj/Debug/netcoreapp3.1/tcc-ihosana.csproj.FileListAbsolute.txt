@@ -56,7 +56,6 @@ C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-iho
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.input.cache
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.output.cache
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorCoreGenerate.cache
-C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
@@ -76,4 +75,5 @@ C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-iho
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Lista.cshtml.g.cs
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Welcome.cshtml.g.cs
 C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Partusuario.cshtml.g.cs
-C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login2.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login1.cshtml.g.cs

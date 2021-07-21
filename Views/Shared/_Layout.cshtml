@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -28,7 +29,10 @@
 </head>
 
 <body>
- 
+    @if (Context.Session.GetInt32("idusuario") != null)
+                    {
+                        <span id="span">Olá @Context.Session.GetString("loginUsuario")<a asp-action="Logout">Sair</a></span>
+                    }
   <main role="main" class="pb-3">
     @RenderBody()
   </main>

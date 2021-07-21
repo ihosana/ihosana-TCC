@@ -18,20 +18,16 @@ namespace tcc_ihosana.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+       
+         public IActionResult Index()
         {
-            return View();
-        }  
-          
-         public IActionResult Login2()
-        {
-            return View();
+            return View("../Usuario/Login");
         }        
          
         public IActionResult Logout()
         {
             HttpContext.Session.Clear();
-            return View("Login");
+            return View("");
         }
         
        

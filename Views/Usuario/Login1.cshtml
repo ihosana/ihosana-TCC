@@ -1,0 +1,36 @@
+@model Usuario
+@{
+  ViewData["Title"] = "Consulta";
+}
+<!doctype html>
+  <html lang="pt-br">
+  <meta charset="utf-8">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] consulta</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/privacy.css" />
+  </head>
+  <body id="fundo">
+    <div class="conteiner">
+  <div class="formulario" id="cadastro">
+        <p id="letra">Login</p>
+            <p id="mensagem">@ViewBag.Mensagem </p>
+        <form method="POST" >
+            <p>
+            <input type="text" asp-for="Login" placeholder="Login" />
+          </p>
+            <p>
+            <input type="password" asp-for="Senha" placeholder="Senha" />
+          </p>
+          <p>
+           <input type="number" asp-for="TipoUS" placeholder="tipo" />
+          </p>
+
+          <p ><input type="submit" value="Logar"></p>
+              <p id="link"> <a asp-area="" asp-controller="Usuario" asp-action="Cadastro">Cadastre-se</a></p>
+        </form>
+      </div>
+  </body>
+  </html>
+

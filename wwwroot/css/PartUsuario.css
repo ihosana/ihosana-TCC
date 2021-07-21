@@ -1,0 +1,38 @@
+.link{
+    padding: 20px, 30px;
+    display: block;   
+    margin-top: 100px;
+}
+.icon{
+   background-color:rgb(0, 128, 105);
+   padding: 10px;
+    }
+    .icone{
+        background-color:rgb(0, 128, 105);
+   
+    }
+.encima ul li{ 
+    text-align: left;
+    display: block;
+    padding: 8px 10px;
+    margin: 0px;
+   font-family: sans-serif;
+   width: 200px;
+   font-size: 19px;
+   color: white;
+ }
+
+ input{
+    background-color:rgb(0, 128, 105);
+    margin-top: 0px;
+    color: white;
+    text-align: left;
+    display: block;
+    padding: 25px 18px;
+    margin: 0px;
+   font-family: sans-serif;
+   width: 200px;
+   font-size: 19px;
+    border-radius: 0px;
+ }
+ 
