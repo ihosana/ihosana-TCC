@@ -51,19 +51,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hosan\\.nuget\\packages\\": {}
+    "C:\\Users\\stefa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\tcc-ihosana.csproj",
+      "projectUniqueName": "C:\\Users\\stefa\\Desktop\\TCCI\\ihosana-TCC\\tcc-ihosana.csproj",
       "projectName": "tcc-ihosana",
-      "projectPath": "C:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\tcc-ihosana.csproj",
-      "packagesPath": "C:\\Users\\hosan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\obj\\",
+      "projectPath": "C:\\Users\\stefa\\Desktop\\TCCI\\ihosana-TCC\\tcc-ihosana.csproj",
+      "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stefa\\Desktop\\TCCI\\ihosana-TCC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hosan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uWFW5bf9qNav5qtxeHLDrDlv4LooggYw2Qmbl/s2edjNurhxNh7/D1z6QRWB0lKE3bD57vtuGxlRgBxp10uqyw==",
+  "dgSpecHash": "ebjyhkV9fgeZc9ij+75GRFNT7+7GQ2O1HTlJOXHGDP8p4FEYXLNTIXt3v7/bNSzhNK41F/msctPccbt8/FoFMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hosan\\OneDrive\\Área de Trabalho\\TUDO QUE EU PRECISO ESTAR AQUI\\tcc-ihosana\\tcc-ihosana.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\TCCI\\ihosana-TCC\\tcc-ihosana.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hosan\\.nuget\\packages\\mysqlconnector\\1.3.1\\mysqlconnector.1.3.1.nupkg.sha512"
+    "C:\\Users\\stefa\\.nuget\\packages\\mysqlconnector\\1.3.1\\mysqlconnector.1.3.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -22,7 +22,8 @@
   <link rel="stylesheet" href="css/gallery.theme.css" />
   <link rel="stylesheet" href="css/site.css" />
   <link rel="stylesheet" href="~/css/login.css" />
-
+  <link rel="stylesheet" href="~/css/rodape.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> <!-- IMPORTAR ICONES -->
   <link rel="stylesheet" href="~/css/privacy.css" />
 
 
@@ -40,6 +41,41 @@
   <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
   <script src="~/js/site.js" asp-append-version="true"></script>
   @RenderSection("Scripts", required: false)
+
+
+ <!-- RODAPÉ DO SITE ------------------------------------------------------------------------>
+  <footer class = "footer">
+    <div class = "box">
+      <div class = "container-one">
+        <h2>The Website</h2>
+        <p>Site desenvolvido para o TCC (Trabalho de Conclusão de Curso) <br> do curso de Técnico de informática do CEEP-PLG</p>
+      </div>
+      <div class = "container-two">
+        <h2>Learn</h2>
+        <ul>
+          <li><a href="" id="cor"><i class="bi bi-chat-left-dots-fill"></i>  FAQs</a></li>
+          <li><a href="" id="cor"><i class="bi bi-gear"></i>  Help Center</a></li>
+          <li><a href="" id="cor"><i class="bi bi-envelope"></i>  site@gmail.com</a></li>
+          <li><a href="" id="cor"><i class="bi bi-telephone"></i>  Telefone</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class = "foot">
+      <div class="names">
+        <p><a href="" id="cor">Ihosana</a> | <a href="" id="cor">StefWolf</a></p>
+      </div>
+      <div class="copy">
+        <p> &copy; CEEP 2021 - Todos os direitos reservados </p>
+      </div>
+    </div>
+
+
+    <!-- <div class = "pe">
+      <p>testando</p>
+    </div> -->
+  </footer>
+
+
 </body>
 
 </html>
