@@ -1,0 +1,131 @@
+@model Usuario
+@{
+
+
+
+  ViewData["Title"] = "Consulta";
+}
+@using Microsoft.AspNetCore.Http
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>@ViewData["Title"] - tcc_ihosana</title>
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/gallery.min.css" />
+  <link rel="stylesheet" href="css/gallery.theme.css" />
+  <link rel="stylesheet" href="~/css/login.css" />
+  <link rel="stylesheet" href="~/css/privacy.css" />
+  <link rel="stylesheet" href="~/css/buttonespecifico.css" />
+
+
+</head>
+
+<main>
+  <div id="imagem">
+    <br>
+<div class="papel">
+
+ 
+     <h1 id="textohome">Sejam <br>
+     bem-vindos</h1>
+  <h3 id="textsmall">Conheça o Nova Vida atendimento virtual. Um site criado através de uma pesquisa para elaborar
+     nosso TCC<br>
+     Nova Vida é uma empresa fictícia, produzida pelos desenvolvedores<br>
+      Amanda de Oliveira, Camille Pessoa e Ihosana de Assis. <br>
+    Nosso site conta com uma otima estilização, e foi criado com o intuito de aperfeiçoar o <br>
+    sistema de Agendamento de consultas online.<br>
+    Oferecendo assim maior interação desde o designer à realização do seu agendamento. <br>
+      </h3>
+   <div class="fundodobut">
+        <a asp-area="" asp-controller="Usuario" asp-action="Login1"><input type="submit" value="Entrar"></a>
+      </div>
+      
+     </div>
+
+ 
+
+    <br>
+    <br>
+  </div>
+  <br>
+  <br>
+  <div class="conteiner">
+    <div id="img"><img src="jpg/logotipo.jpg" width="400px" height="400px"> </div>
+    <div style="height:300px; border-left:2px black solid;left:500px;right:100px"></div>
+    <p class="palavra">
+      Conheça o Nova Vida atendimento virtual. Um site criado através de uma pesquisa para elaborar nosso TCC.
+      Nova Vida é uma empresa fictícia, produzida pelos desenvolvedores: Amanda de Oliveira, Camille Pessoa e
+      Ihosana de Assis. Nosso site conta com uma otima estilização, e foi criado com o intuito de aperfeiçoar
+      o sistema de Agendamento de consultas online. Oferecendo assim maior interação desde o designer à realização
+      do seu agendamento.
+
+    </p>
+  </div>
+  <br>
+<div class="cards grid">
+            <div class="card">
+
+                <img src="../jpg/fila.png">
+                <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
+                    book. containing Lorem Ipsum
+                </p>
+            </div>
+            <div class="card">
+
+                <img src="../jpg/mais.png">
+                <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
+                    book.
+                </p>
+            </div>
+            <div class="card">
+                <img src="../jpg/png-6.jpg">
+                <p class="texto"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
+                    book.
+                </p>
+
+            </div>
+
+        </div>
+</main>
+<br>
+<br>
+<br>
+
+<!--
+<footer id="rodape">
+  <div class="conteiner">
+    <p class="conta">
+      <img src="jpg/grupo.png" width="60px" height="60px"> Trabalhe conosco
+
+  <p class="conta">
+    <img src="jpg/tel.png" width="60px" height="65px"> Tel:(66)88882-3743
+  </p>
+ </div>
+</footer>
+
+
+<script>
+  $("#btnAbreModal").on('click', function () {
+    $("#modal").fadeIn();
+    $("#caixa").slideDown();
+  });
+
+  $(".fechar").on('click', function () {
+    $("#caixa").slideUp();
+    $("#modal").fadeOut();
+  });
+</script>
+-->
+</div>

@@ -1,0 +1,118 @@
+﻿@model Agendamento
+@{
+  ViewData["Title"] = "Consulta";
+}
+<!doctype html>
+  <html lang="pt-br">
+
+  <meta charset="utf-8">
+
+  <head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] consulta</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/privacy.css" />
+  </head>
+  <body id="fundo">
+    <div class="conteiner">
+  <p class="behind"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+    to make a type specimen book.
+    containing Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+    to make a type specimen book.
+    containing Lorem Ipsum
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+    to make a type specimen book.
+    containing Lorem Ipsum
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+    to make a type specimen book.
+    containing Lorem Ipsum
+</p>
+  <div class="formulario">
+    
+     
+        <p class="letra">Consulta</p>
+            <p id="mensagem">@ViewBag.Mensagem </p>
+        <form asp-action="Consulta" method="POST">
+           <p>
+            <input type="text" asp-for="NomeCompleto" placeholder="Nome completo" />
+          </p> 
+           <p>
+            <input type="date" asp-for="Marcar"  placeholder="Data" />
+          </p> 
+           <p>
+            <input type="text" asp-for="Turno" placeholder="turno" />
+          </p>
+       <p>
+                  <select title="tipo de consulta">
+                    
+              <option type="text" asp-for="Tipo"> Hiperteção</option>
+               <option type="text" asp-for="Tipo"> Saúde da Mulher </option>
+               
+               <option type="text" asp-for="Tipo"> Hiperdia</option>
+               
+               <option type="text" asp-for="Tipo"> Pré-natal</option>
+
+              </select>
+              </p>
+            <p>
+            <input type="number" asp-for="Idade" placeholder="Idade" />
+          </p>
+          <p><input type="submit" value="Fazer consulta"></p>
+          
+        </form>
+
+      </div>
+    <!--
+    <div class="conteiner">
+      <article class="behind">
+
+        <p class="world"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+          been the
+          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          scrambled it
+          to make a type specimen book.
+          containing Lorem Ipsum</p>
+
+      </article>
+    </div>
+      <div class="formulario">
+        <form method="POST">
+          <p>
+            <input type="text" placeholder="Nome completo" />
+          </p>
+          <p>
+            <input placeholder="Tipo de consulta" />
+          </p>
+          <p>
+            <input type="number" placeholder="idade" />
+          </p>
+          <p><input type="submit" value="Fazer consulta"></p>
+        </form>
+
+      </div>
+      -->
+  </body>
+
+  </html>
+  <!--
+   <div class="formulario">
+      <form method="POST">
+        <p>
+        <input type="text" placeholder="Nome completo"/>
+        </p>
+        <p>
+        <input  placeholder="Tipo de consulta"/>
+        </p>
+        <p>
+        <input type="number" placeholder="idade"/>
+        </p>
+        <p><input type="submit" value="Fazer consulta"></p>
+      </form>
+
+  </div>
+  -->

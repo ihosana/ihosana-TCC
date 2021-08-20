@@ -1,0 +1,163 @@
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.exe
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.deps.json
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.json
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.dev.json
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.dll
+C:\Users\hosan\Desktop\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.csprojAssemblyReference.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfoInputs.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfo.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CoreCompileInputs.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.input.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.output.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorCoreGenerate.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cs
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.Manifest.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.xml
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.genruntimeconfig.cache
+C:\Users\hosan\Desktop\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CopyComplete
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.exe
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.deps.json
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.json
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.dev.json
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.dll
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.csprojAssemblyReference.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfoInputs.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfo.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CoreCompileInputs.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.input.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.output.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorCoreGenerate.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.Manifest.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.xml
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.genruntimeconfig.cache
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CopyComplete
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Consulta.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Lista.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Welcome.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Partusuario.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hosan\OneDrive\Área de Trabalho\TUDO QUE EU PRECISO ESTAR AQUI\tcc-ihosana\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login1.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.exe
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.deps.json
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.json
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.dev.json
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.dll
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfo.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.input.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.output.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorCoreGenerate.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Consulta.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Lista.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login1.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Partusuario.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Welcome.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cs
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CopyComplete
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.Manifest.cache
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.xml
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\stefa\Desktop\TCCI\ihosana-TCC\obj\Debug\netcoreapp3.1\tcc-ihosana.genruntimeconfig.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.exe
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.deps.json
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.json
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.runtimeconfig.dev.json
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.dll
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.csprojAssemblyReference.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfoInputs.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.AssemblyInfo.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CoreCompileInputs.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorAssemblyInfo.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.input.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.TagHelpers.output.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorCoreGenerate.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Consulta.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Lista.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login1.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Partusuario.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Welcome.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.RazorTargetAssemblyInfo.cs
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.Views.pdb
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.csproj.CopyComplete
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.Manifest.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\staticwebassets\tcc-ihosana.StaticWebAssets.xml
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.dll
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.pdb
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\tcc-ihosana.genruntimeconfig.cache
+C:\Users\hosan\Downloads\ihosana-TCC-atualiza\ihosana-TCC-atualiza\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inicio.cshtml.g.cs
