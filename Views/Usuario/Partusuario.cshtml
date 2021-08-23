@@ -28,23 +28,96 @@
     crossorigin="anonymous"></script>
   <link rel="stylesheet" href="css/gallery.min.css" />
   <link rel="stylesheet" href="css/gallery.theme.css" />
-  <link rel="stylesheet" href="~/css/login.css" />
-  <link rel="stylesheet" href="~/css/privacy.css" />
   <link rel="stylesheet" href="~/css/PartUsuario.css" />
+  
 </head>
 
 <main>
-  <div class="alinhar">
-    
-  @if (Context.Session.GetInt32("idusuario") != null)
+  <div>
+   <nav>
+      <div class="menu">
+      <ul>
+        <li>
+          logo
+       </li>
+        <li>
+                
+ @if (Context.Session.GetInt32("idusuario") != null)
                     {
-                       <span id="span"><h2 class="titulo">Olá @Context.Session.GetString("loginUsuario") 
-</h2><a asp-action="Logout"></a></span>
+                      <span id="span"> <h2 class="titulo"> Olá @Context.Session.GetString("loginUsuario"), seja bem-vindo(a)
+</h2> </span>
                     } 
+        </li>
+        <li> 
+         <p class="but2">     <a class="but" asp-area="" asp-controller="Agenda" asp-action="Consulta">Agendar consulta</a></p>
+        </li>
+      </ul>
+      </div>
+    </nav>
   <hr/>
- 
     </main>
-    <div class="encima">
+    <div class="imagemUser">
+    </div>
+    <h3 class="titulo2"> Especialistas</h3>
+    <div class="posicao">
+    <div class="artigo">
+      <p class="pessoa">
+
+      </p>
+   <h6 class="texto">
+     Conheça o Nova Vida atendimento virtual. Um site criado através 
+      de uma pesquisa para elaborar nosso TCC.Nova Vida é uma empresa
+      fictícia, produzida pelos desenvolvedores: Amanda de Oliveira,
+       Camille Pessoa e Ihosana de Assis. Nosso site conta com uma 
+       otima estilização, e foi criado com o intuito de aperfeiçoar
+      o sistema de Agendamento de consultas online. Oferecendo assim 
+      maior interação desde o designer à realizaçãodo seu agendamento.
+
+   </h6>
+   </div>
+    <div class="artigo">
+      <p class="pessoa">
+
+      </p>
+   <h6 class="texto">
+     Conheça o Nova Vida atendimento virtual. Um site criado através 
+      de uma pesquisa para elaborar nosso TCC.Nova Vida é uma empresa
+      fictícia, produzida pelos desenvolvedores: Amanda de Oliveira,
+       Camille Pessoa e Ihosana de Assis. Nosso site conta com uma 
+       otima estilização, e foi criado com o intuito de aperfeiçoar
+      o sistema de Agendamento de consultas online. Oferecendo assim 
+      maior interação desde o designer à realizaçãodo seu agendamento.
+
+   </h6>
+   </div>
+   </div>
+</main>
+
+  </html>
+  <!--
+        
+ @if (Context.Session.GetInt32("idusuario") != null)
+                    {
+                      <span id="span"> <h2 class="titulo"> Olá @Context.Session.GetString("loginUsuario") !
+</h2> </span>
+                    } 
+    <a asp-action="Logout"></a>
+
+      <ul class="topo">
+
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Agenda" asp-action="Consulta">Fazer
+              consulta</a>
+          </li>
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+          </li>
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Agenda" asp-action="Lista">Posições</a>
+          </li>
+      
+        </ul>
+         <div class="encima">
         <ul class="link">
             <li>
          <input type="submit" title="Veja suas consultas" value="Minhas consultas">  
@@ -56,6 +129,4 @@
             
         </ul>
     </div>
-</main>
-
-  </html>
+    -->

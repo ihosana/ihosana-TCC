@@ -6,8 +6,8 @@
   margin: 0px;
   background-color: rgb(0, 128, 105);
   width:auto;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 #galeria{
    height: 1000px;
@@ -44,7 +44,6 @@
      text-align: center;
      display: inline-block;
      margin-top: 0px;
-     padding: 10px 45px 20px;
     
      margin: 0px;
     color: white;
@@ -61,7 +60,7 @@
 .topo ul li{
    text-align: center;
    display: inline;
-   padding: 8px 100px;
+   padding: 2px 1px;
 }
 #galeria{
     height: 100px;
