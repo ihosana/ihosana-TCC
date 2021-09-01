@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFpTePbG7iiQYvzhdQoESIHSTQF90n4cK9Bfz4My0lrqFWSNQR1EIz6Wlj1lotlcMIZPqpdfIuS6ZUsxI8N1Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre Luiz\\Downloads\\ihosana-TCC-Visual\\ihosana-TCC-Visual\\tcc-ihosana.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre Luiz\\.nuget\\packages\\mysqlconnector\\1.3.1\\mysqlconnector.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

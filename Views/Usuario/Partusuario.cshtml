@@ -1,0 +1,132 @@
+@using Microsoft.AspNetCore.Http
+@model Usuario
+@{
+  ViewData["Title"] = "Consulta";
+}
+
+<!doctype html>
+  <html lang="pt-br">
+  <meta charset="utf-8">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>@ViewData["Title"] - tcc_ihosana</title>
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
+  
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/gallery.min.css" />
+  <link rel="stylesheet" href="css/gallery.theme.css" />
+  <link rel="stylesheet" href="~/css/PartUsuario.css" />
+  
+</head>
+
+<main>
+  <div>
+   <nav>
+      <div class="menu">
+      <ul>
+        <li>
+          logo
+       </li>
+        <li>
+                
+ @if (Context.Session.GetInt32("idusuario") != null)
+                    {
+                      <span id="span"> <h2 class="titulo"> Olá @Context.Session.GetString("loginUsuario"), seja bem-vindo(a)
+</h2> </span>
+                    } 
+        </li>
+        <li> 
+         <p class="but2">     <a class="but" asp-area="" asp-controller="Agenda" asp-action="Consulta">Agendar consulta</a></p>
+        </li>
+      </ul>
+      </div>
+    </nav>
+  <hr/>
+    </main>
+    <div class="imagemUser">
+    </div>
+    <h3 class="titulo2"> Especialistas</h3>
+    <div class="posicao">
+    <div class="artigo">
+      <p class="pessoa">
+
+      </p>
+   <h6 class="texto">
+     Conheça o Nova Vida atendimento virtual. Um site criado através 
+      de uma pesquisa para elaborar nosso TCC.Nova Vida é uma empresa
+      fictícia, produzida pelos desenvolvedores: Amanda de Oliveira,
+       Camille Pessoa e Ihosana de Assis. Nosso site conta com uma 
+       otima estilização, e foi criado com o intuito de aperfeiçoar
+      o sistema de Agendamento de consultas online. Oferecendo assim 
+      maior interação desde o designer à realizaçãodo seu agendamento.
+
+   </h6>
+   </div>
+    <div class="artigo">
+      <p class="pessoa">
+
+      </p>
+   <h6 class="texto">
+     Conheça o Nova Vida atendimento virtual. Um site criado através 
+      de uma pesquisa para elaborar nosso TCC.Nova Vida é uma empresa
+      fictícia, produzida pelos desenvolvedores: Amanda de Oliveira,
+       Camille Pessoa e Ihosana de Assis. Nosso site conta com uma 
+       otima estilização, e foi criado com o intuito de aperfeiçoar
+      o sistema de Agendamento de consultas online. Oferecendo assim 
+      maior interação desde o designer à realizaçãodo seu agendamento.
+
+   </h6>
+   </div>
+   </div>
+</main>
+
+  </html>
+  <!--
+        
+ @if (Context.Session.GetInt32("idusuario") != null)
+                    {
+                      <span id="span"> <h2 class="titulo"> Olá @Context.Session.GetString("loginUsuario") !
+</h2> </span>
+                    } 
+    <a asp-action="Logout"></a>
+
+      <ul class="topo">
+
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Agenda" asp-action="Consulta">Fazer
+              consulta</a>
+          </li>
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+          </li>
+          <li class="link">
+            <a class="nav" asp-area="" asp-controller="Agenda" asp-action="Lista">Posições</a>
+          </li>
+      
+        </ul>
+         <div class="encima">
+        <ul class="link">
+            <li>
+         <input type="submit" title="Veja suas consultas" value="Minhas consultas">  
+            </li>
+            <br>
+            <li>
+          <a asp-area="" asp-controller="Agenda" asp-action="Consulta"> <input type="submit" title="Faça sua consulta" value="Fazer consulta"></a>
+            </li>
+            
+        </ul>
+    </div>
+    -->
